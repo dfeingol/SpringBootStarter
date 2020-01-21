@@ -1,5 +1,9 @@
 Simple Spring Boot Example
 
+- Integration with Swagger
+- Uses JPA and H2 database
+- Global Exception Handler
+
 More Features
 ------------
 Unit tests for Repository
