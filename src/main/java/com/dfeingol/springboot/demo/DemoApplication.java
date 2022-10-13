@@ -19,6 +19,7 @@ public class DemoApplication implements CommandLineRunner {
   @Override
   public void run(String... arg0) throws Exception {
     int df = 0;
+    int gh = 0;
     logger.info("Startup -> {}");
   }
 }
