@@ -18,6 +18,7 @@ public class DemoApplication implements CommandLineRunner {
   // in this method you can put any pre-inialization
   @Override
   public void run(String... arg0) throws Exception {
+    int df = 0;
     logger.info("Startup -> {}");
   }
 }
