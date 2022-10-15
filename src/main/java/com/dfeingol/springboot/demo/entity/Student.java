@@ -8,6 +8,9 @@ import javax.persistence.*;
 @NamedQueries(value = {
         @NamedQuery(name = "query_get_all_students",
                 query = "Select  s  From Student s order by s.name")})
+/**
+ * This is the student
+ */
 @Entity
 public class Student {
 
